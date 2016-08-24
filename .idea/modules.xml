@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CameraModule/CameraModule.iml" filepath="$PROJECT_DIR$/CameraModule/CameraModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Image to Voice Converter.iml" filepath="$PROJECT_DIR$/Image to Voice Converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+    </modules>
+  </component>
+</project>

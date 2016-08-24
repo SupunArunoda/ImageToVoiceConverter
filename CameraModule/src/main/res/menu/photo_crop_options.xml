@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+         android:id="@+id/apply"
+         android:showAsAction="always"
+         android:onClick="apply"
+         android:title="@string/lbl_string_apply"/>
+
+    <item
+         android:id="@+id/cancel"
+         android:showAsAction="always"
+         android:onClick="cancel"
+         android:title="@string/lbl_cancel"/>
+
+</menu>

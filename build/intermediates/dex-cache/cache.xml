@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Supun\Documents\Image to Voice Converter\sample\build\intermediates\exploded-aar\com.edmodo\cropper\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="66467578c335f7a6babdbe01f7f0ac63230f578e">
+        <dex dex="C:\Users\Supun\Documents\Image to Voice Converter\sample\build\intermediates\pre-dexed\debug\classes-9329f25d42d9a4aa8bb6f28e832b76a0f3da976b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Supun\.gradle\caches\modules-2\files-2.1\com.jakewharton.timber\timber\2.2.2\2cd7e2012b93ffd30ef963c7ffcbebb54db5f5a2\timber-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2cd7e2012b93ffd30ef963c7ffcbebb54db5f5a2">
+        <dex dex="C:\Users\Supun\Documents\Image to Voice Converter\sample\build\intermediates\pre-dexed\debug\timber-2.2.2-bca0f3eebed4aaa2271331f7547641817eb4b6fd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Supun\Documents\Image to Voice Converter\sample\build\intermediates\exploded-aar\Image to Voice Converter\CameraModule\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="29f64655c58384faf109a9adb260aebf71f61b54">
+        <dex dex="C:\Users\Supun\Documents\Image to Voice Converter\sample\build\intermediates\pre-dexed\debug\classes-92eb82780a97fa3be19d1fec17a7a4e2d1ebad2f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Supun\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.2.0\74137f8d9aac26dd9463efe32271f2be8d41cda9\picasso-2.2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="74137f8d9aac26dd9463efe32271f2be8d41cda9">
+        <dex dex="C:\Users\Supun\Documents\Image to Voice Converter\sample\build\intermediates\pre-dexed\debug\picasso-2.2.0-0b3e1543bdaf46f2f57570c61e18652eb9683141.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3399ff</color>
+    <color name="colorPrimaryDark">#2162a3</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="Blue">@color/colorPrimary</color>
+    <color name="BlueLight">#3297c4f2</color>
+    <color name="BlueDark">#00005e</color>
+    <color name="Green">#27ae60</color>
+    <color name="Grey">#707070</color>
+    <color name="GreyLight">#ebebeb</color>
+    <color name="GreyDark">#252525</color>
+    <color name="Rating_Active">#f8cb00</color>
+    <color name="Rating_Inactive">#cccccc</color>
+    <color name="ButtonDisabled">#962162a3</color>
+    <color name="Red">#c51630</color>
+
+
+    <!--Finger print-->
+    <color name="warning_color">#f4511e</color>
+    <color name="hint_color">#42000000</color>
+    <color name="success_color">#009688</color>
+
+</resources>
